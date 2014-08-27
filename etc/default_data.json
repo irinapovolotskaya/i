@@ -158,6 +158,7 @@
                 {
                     "name": "Arkady Kanevsky",
                     "email": "arkady_kanevsky@dell.com"
+                    "launchpad_id": "arkady-kanevsky"
                 }
             ],
             "wiki": "http://docs.openstack.org/trunk/config-reference/content/dell-equallogic-driver.html",
@@ -292,14 +293,17 @@
                 {
                     "name": "Seiji Aguchi",
                     "email": "seiji.aguchi.tr@hitachi.com"
+                    "launchpad_id": "seigii-aguchi"
                 },
                 {
                     "name": "Steven Sonnenberg",
                     "email": "steven.sonnenberg@hds.com"
+                    "launchpad_id": "steven-sonnenberg"
                 },
                 {
                     "name": "Lakhinder Walia",
                     "email": "lakhinder.walia@hds.com"
+                    "launchpad_id": "lakhindr"
                 }
             ],
             "wiki": "http://docs.openstack.org/trunk/config-reference/content/hds-volume-driver.html",
@@ -314,6 +318,7 @@
                 {
                     "name": "Zhang Chao",
                     "email": "zhangchao010@huawei.com"
+                    
                 }
             ],
             "wiki": "http://docs.openstack.org/trunk/config-reference/content/huawei-storage-driver.html",
